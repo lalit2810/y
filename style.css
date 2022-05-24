@@ -1,0 +1,28 @@
+.heading 
+{
+ font-size: 23px;
+ width: 100%;
+ margin: 0px;
+ box-shadow: 5px 5px 5px gold;
+ color:chocolate;
+
+}
+
+.heading_div{
+    float:none;
+    background: rgb(14, 114, 228);
+    padding: 10px;
+    border-radius: 20px;
+    color: coral;
+    box-shadow: 5px 5px 5px rgb(65, 200, 20);
+}
+
+.heading_div2{
+     font-size: 18px;
+     color: rgb(255, 0, 0);
+}
+
+background {
+    width:fit-content;
+    height: fit-content;
+}
